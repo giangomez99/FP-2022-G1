@@ -1,5 +1,12 @@
-# Object file
-*.o
-
-# Ada Library Information
-*.ali
+*.replit
+*.class
+**/*
+!**/*.go
+!**/*.java
+!**/*.dart
+!**/*.py
+!**/*.rb
+!**/*.scala
+!**/*.cpp
+!**/*.tk
+!**/
